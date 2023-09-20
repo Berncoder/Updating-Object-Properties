@@ -1,8 +1,8 @@
 // Updating Object Properties 
 
 
-<!-- Update the myDog object's name property. 
-    Change her name from Coder to Happy Coder -->
+/* Update the myDog object's name property. 
+    Change her name from Coder to Happy Coder */
 
 const myDog = {
     "name": "Coder",
@@ -20,7 +20,7 @@ console.log(myDog);
   tails: 1,
   friends: [ 'freeCodeCamp Campers' ] }
 
-  <!-- **********-->
+  // ********** 
 //Add New Properties to a JS Object
 
 const myDog = {
@@ -40,7 +40,7 @@ console.log(myDog);
   friends: [ 'freeCodeCamp Campers' ],
   bark: 'woof' }
 
-<!---***********-->
+// *********** //
   //Delete Properties from a JS Object
 
   const myDog = {
